@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065290828998",
+    "project_id": "coviseva-49815",
+    "storage_bucket": "coviseva-49815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065290828998:android:3ddf5d7e0177b588b9dbc7",
+        "android_client_info": {
+          "package_name": "test.hexclan.coviseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065290828998-2ocrdl2hp4r7j1e5voal3a8bjm88e3o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.hexclan.coviseva",
+            "certificate_hash": "fe50c7f83434ac8563ff6d37a647df3eb610d02a"
+          }
+        },
+        {
+          "client_id": "1065290828998-h058lclh72ag3dsfkrpblhp9m7q1sbj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvzjLcRmL98s6xoU9TF3OkgH9l-psJBZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065290828998-h058lclh72ag3dsfkrpblhp9m7q1sbj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
